@@ -4,6 +4,9 @@
 
 ## About Laravel
 
+First, you need to have Composer to install Laravel.
+
+Composer is a package manager designed for the PHP programming language.
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects.
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
@@ -12,4 +15,7 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 Laravel's localization features provide a convenient way to retrieve strings in various languages, allowing you to easily support multiple languages within your application.
 
 - This project has no database 
+
+
+The steps are easy and straight forward , to see the entire process of implementing laravel localization in details <a href="https://lokalise.com/blog/laravel-localization-step-by-step/" target="_blank"> Click Here. </a>
 
